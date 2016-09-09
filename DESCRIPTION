@@ -1,0 +1,9 @@
+Package: lookerAPI
+Type: Package
+Title: Fetch saves looks from Looker.
+Version: 0.1.0
+Authors@R: person("Gordon", "Shotwell", email = "gordon@upworthy.com", role = c("aut", "cre"))
+Description: Calls the looker API3 ti return the results of saved looks in a Data Frame
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 5.0.1
